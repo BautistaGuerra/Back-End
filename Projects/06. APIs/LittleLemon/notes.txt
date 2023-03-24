@@ -1,0 +1,15 @@
+
+
+ADMIN:
+	username: bautig
+	password: bautig@1
+
+CUSTOMER: 
+	username: John
+	password: Lemon@123
+	token:88f92ba1a0dcef6f03688dca2293ccf17fd0a43a
+
+DELIVERY:
+	username: emma
+	password: Lemon@123
+
