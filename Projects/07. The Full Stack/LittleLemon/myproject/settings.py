@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'myproject.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'menu_items',
-        'HOST' : 'localhost',
+        'NAME': 'reservations',
+        'HOST' : '127.0.0.1',
         'PORT' : '3306',
-        'USER' : 'root',
-        'PASSWORD' : 'MYbauti47800-',
+        'USER' : 'admindjango',
+        'PASSWORD' : 'employee@123!',
     }
 }
 
